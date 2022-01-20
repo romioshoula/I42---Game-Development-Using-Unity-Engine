@@ -1,0 +1,11 @@
+(Only upload the Unity Package by Exporting the a Unity scene)
+Use this (https://assetstore.unity.com/packages/3d/environments/sci-fi/modular-sci-fi-corridor-142811 )asset to create a level
+add reflection and light probes 
+References
+https://learn.unity.com/tutorial/introduction-to-lighting-and-rendering 
+https://app.pluralsight.com/library/courses/unity-lighting-fundamentals/table-of-contents 
+https://learn.unity.com/project/unity-materials-fundamentals
+https://www.youtube.com/c/Brackeys/playlists
+https://www.youtube.com/watch?v=sK29N-HK2GU
+
+Make 3D terrain im unity

@@ -1,0 +1,10 @@
+(Only upload the Unity Package by Exporting the a Unity scene)
+Install unity
+Change play-mode tent
+Build PC version of an empty project 
+Build a scene using the provided assets (from Kenney)
+                                For every model use create a prefab
+                                Create and use at least one nested prefab
+                                Create and use at least one prefab variant
+                                Try to use snapping while building your scene
+                                Add at least two lights of different types

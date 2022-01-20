@@ -1,0 +1,20 @@
+(Only upload the Unity Package by Exporting the a Unity scene)
+Use the following asset and create a 2D platformer level using tilemaps: 
+https://www.gameart2d.com/free-sci-fi-platformer-tileset.html 
+
+
+
+Add the following character and setup (Run, Idle, Jump and Fall) animations:
+
+https://www.gameart2d.com/the-robot---free-sprites.html
+
+
+
+Check this video on rule tile and use it in your level:
+
+https://www.youtube.com/watch?v=Ky0sV9pua-E
+
+
+
+
+Self-study: Effectors and Joints in 2d for Unity 2019 or Higher

@@ -1,0 +1,6 @@
+(Only upload the Unity Package by Exporting the a Unity scene)
+Make your own platformer level.
+Implement a double jump.
+Make a patrolling enemy.
+Check Tilemap: Prefab Brush video on prefab brush and use it to add collectables to your level.
+Check 2D Camera in Unity (Cinemachine Tutorial) video and make the camera follow the player.
